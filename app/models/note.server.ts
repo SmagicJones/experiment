@@ -1,7 +1,7 @@
 import type { User, Note } from "@prisma/client";
 
 import { prisma } from "~/db.server";
-
+// soismd
 export function getNote({
   id,
   userId,
